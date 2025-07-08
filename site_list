@@ -47,3 +47,17 @@ DOMAIN-SUFFIX,redis.io
 DOMAIN-SUFFIX,tableau.com
 DOMAIN-SUFFIX,tableausoftware.com
 DOMAIN-SUFFIX,tableauusercontent.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,ttwstatic.com
+DOMAIN-KEYWORD,medium
+DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,meta
+DOMAIN-KEYWORD,gemini
+DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,notion
+DOMAIN-KEYWORD,chatgpt
+DOMAIN-KEYWORD,facebook
+DOMAIN-SUFFIX,https://labs.google/fx/tools/flow
+DOMAIN-SUFFIX,https://labs.google/flow
+DOMAIN-KEYWORD,tiktok
