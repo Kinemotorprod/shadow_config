@@ -1,3 +1,6 @@
+# NAME: KM_domains.list
+# AUTHOR: tonchitos
+# UPDATED: 2025-07-08 
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,gstatic
 DOMAIN-KEYWORD,gemini
@@ -25,3 +28,22 @@ DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,ttwstatic.com
 DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,elevenlabs.io
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,sora.com
+DOMAIN-KEYWORD,proactivebackend-pa.googleapis.com #gemini
+DOMAIN-SUFFIX,composer.opera-api.com
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,notionusercontent.com
+DOMAIN-SUFFIX,ifconfig.me
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,maxmind.com
+DOMAIN-SUFFIX,datacamp.com
+DOMAIN-SUFFIX,redis.io
+DOMAIN-SUFFIX,tableau.com
+DOMAIN-SUFFIX,tableausoftware.com
+DOMAIN-SUFFIX,tableauusercontent.com
