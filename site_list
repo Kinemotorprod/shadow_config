@@ -63,3 +63,10 @@ DOMAIN-SUFFIX,https://labs.google/flow
 DOMAIN-KEYWORD,tiktok
 DOMAIN-KEYWORD,runwayml
 DOMAIN-KEYWORD,runway
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,mail.google.com
+DOMAIN-SUFFIX,oauth2.googleapis.com
+DOMAIN-SUFFIX,inbox.google.com
+DOMAIN-SUFFIX,oauthaccountmanager.googleapis.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,app-analytics-services.com
