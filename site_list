@@ -6,6 +6,7 @@ DOMAIN-KEYWORD,gstatic
 DOMAIN-KEYWORD,gemini
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,apple
 DOMAIN-KEYWORD,tiktok
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,zapier
@@ -71,3 +72,5 @@ DOMAIN-SUFFIX,https://labs.google/flow
 DOMAIN-KEYWORD,tiktok
 DOMAIN-KEYWORD,runwayml
 DOMAIN-KEYWORD,runway
+DOMAIN-KEYWORD,consumer.cloud
+DOMAIN-KEYWORD,figma
