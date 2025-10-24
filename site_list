@@ -74,3 +74,6 @@ DOMAIN-KEYWORD,runwayml
 DOMAIN-KEYWORD,runway
 DOMAIN-KEYWORD,consumer.cloud
 DOMAIN-KEYWORD,figma
+DOMAIN-SUFFIX,weatherkit.apple.com
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,push.apple.com
