@@ -77,4 +77,4 @@ DOMAIN-KEYWORD,figma
 DOMAIN-SUFFIX,weatherkit.apple.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,push.apple.com
-IP-CIDR,149.154.167/32
+IP-CIDR,149.154.167.41/32
