@@ -80,3 +80,8 @@ DOMAIN-SUFFIX,push.apple.com
 IP-CIDR,149.154.167.41/32
 DOMAIN-KEYWORD,kling
 DOMAIN-KEYWORD,midjourney
+DOMAIN-KEYWORD,bat.bing.com
+DOMAIN-SUFFIX,logsdk.kwai-pro.com
+DOMAIN-SUFFIX,collector.github.com
+DOMAIN-SUFFIX,consumer.cloud.gist.build
+DOMAIN-SUFFIX,mesu.apple.com
