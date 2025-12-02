@@ -16,3 +16,5 @@ vless://9a1a25b1-e488-402e-8262-dd97b4c33c94@us-east-2.vpnd.io:14159?type=tcp&se
 vless://f37c8ecb-ad9c-47de-8cbc-3ff79eec188d@us-east-3.vpnd.io:23450?type=tcp&security=reality&encryption=none&pbk=yFUFlCAoqFhaYRaheO36qFiZX0_PjtKbgarUPazh5D8&fp=random&sni=amazon.com&sid=99dd1749&spx=%2F&flow=xtls-rprx-vision#🇺🇸 United States - Chicago
 vless://78be4ed8-ecef-4053-ace4-c3bdd55d2833@us-east-4.vpnd.io:18407?type=tcp&security=reality&encryption=none&pbk=Gke5_s7J42PmBalKm-HBfg4ZWFXOqCHQoFEMtFfz2z8&fp=random&sni=amazon.com&sid=413b65&spx=%2F&flow=xtls-rprx-vision#🇺🇸 United States - Miami
 vless://49bac471-e5dc-4bc2-acbd-f5f7de8c17b3@us-east-6.vpnd.io:17673?type=tcp&security=reality&encryption=none&pbk=FwNfSQDkbgQUutK8ig90HObEAIyEVLbJebvqoM1jSCA&fp=random&sni=amazon.com&sid=0fedc2543d4b&spx=%2F&flow=xtls-rprx-vision#🇺🇸 United States - New York
+https://vpnd.io/subscription/ss/eb664e76defb45f941befc7537ddc101eed81a45c1808f44cf9db16b88709cc7
+https://vpnd.io/subscription/vless/eb664e76defb45f941befc7537ddc101eed81a45c1808f44cf9db16b88709cc7
