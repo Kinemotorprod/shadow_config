@@ -98,3 +98,6 @@ DOMAIN-SUFFIX,gateway.icloud.com
 DOMAIN-SUFFIX,amp-api.media.apple.com
 DOMAIN-SUFFIX,librarydaap.itunes.apple.com
 DOMAIN-KEYWORD,inappcheck.itunes.apple
+DOMAIN-KEYWORD,api.sprig
+DOMAIN-KEYWORD,track.customer
+DOMAIN-KEYWORD,cr-relay
