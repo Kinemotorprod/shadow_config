@@ -7,6 +7,7 @@ DOMAIN-KEYWORD,gemini
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,apple
+DOMAIN-KEYWORD,itunes.apple
 DOMAIN-KEYWORD,tiktok
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,zapier
@@ -74,9 +75,8 @@ DOMAIN-KEYWORD,runwayml
 DOMAIN-KEYWORD,runway
 DOMAIN-KEYWORD,consumer.cloud
 DOMAIN-KEYWORD,figma
-DOMAIN-KEYWORD,weatherkit.apple
+DOMAIN-SUFFIX,,weatherkit.apple.com
 DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,push.apple.com
 IP-CIDR,149.154.167.41/32
 DOMAIN-KEYWORD,kling
 DOMAIN-KEYWORD,midjourney
@@ -85,3 +85,16 @@ DOMAIN-SUFFIX,logsdk.kwai-pro.com
 DOMAIN-SUFFIX,collector.github.com
 DOMAIN-SUFFIX,consumer.cloud.gist.build
 DOMAIN-SUFFIX,mesu.apple.com
+DOMAIN-KEYWORD,app-analytics-services
+DOMAIN-SUFFIX,xp.apple.com
+DOMAIN-SUFFIX,init.itunes.apple.com
+DOMAIN-KEYWORD,mzstatic
+DOMAIN-SUFFIX,fpinit.itunes.apple.com
+DOMAIN-KEYWORD,push.apple
+DOMAIN-SUFFIX,bag.itunes.apple.com
+DOMAIN-SUFFIX,identity.ess.apple.com
+DOMAIN-SUFFIX,play.itunes.apple.com
+DOMAIN-SUFFIX,gateway.icloud.com
+DOMAIN-SUFFIX,amp-api.media.apple.com
+DOMAIN-SUFFIX,librarydaap.itunes.apple.com
+DOMAIN-KEYWORD,inappcheck.itunes.apple
