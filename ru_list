@@ -26,6 +26,7 @@ DOMAIN-KEYWORD,lovit
 DOMAIN-KEYWORD,yastatic
 DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,comments.app
+DOMAIN-KEYWORD,perekrestok
 DOMAIN-SUFFIX,contest.com
 DOMAIN-SUFFIX,fragment.com
 DOMAIN-SUFFIX,graph.org
@@ -97,3 +98,12 @@ DOMAIN-SUFFIX,ru.metrolink-plus
 DOMAIN-SUFFIX,esa.evraz
 DOMAIN-KEYWORD,roseltorg
 DOMAIN-SUFFIX,fintender.ru
+DOMAIN-SUFFIX,consultant.ru
+DOMAIN-KEYWORD,avito
+DOMAIN-KEYWORD,twinby
+DOMAIN-SUFFIX,citydrive.ru
+DOMAIN-KEYWORD,belkacar
+DOMAIN-SUFFIX,mos.ru
+DOMAIN-KEYWORD,vkusvill
+DOMAIN-KEYWORD,poisondrop
+DOMAIN-KEYWORD,thepure
