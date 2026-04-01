@@ -1,7 +1,6 @@
 # NAME: KM_domains.list
 # AUTHOR: tonchitos
 # UPDATED: 2026-03-26 
-DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,gstatic
 DOMAIN-KEYWORD,gemini
 DOMAIN-KEYWORD,openai
