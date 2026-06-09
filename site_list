@@ -68,6 +68,7 @@ DOMAIN-KEYWORD,consumer.cloud
 DOMAIN-KEYWORD,figma
 DOMAIN-SUFFIX,,weatherkit.apple.com
 DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
 DOMAIN-KEYWORD,kling
 DOMAIN-KEYWORD,midjourney
 DOMAIN-KEYWORD,bat.bing.com
