@@ -2,9 +2,6 @@
  "version": 2,
  "rules": [
   {
-   "domain": [
-    "studio.kinemotor.pro"
-   ],
    "domain_suffix": [
     "360.yandex",
     "argotunnel.com",
