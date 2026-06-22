@@ -215,6 +215,13 @@
     "91.108.8.0/22",
     "95.161.64.0/20"
    ]
+  },
+  {
+   "domain": [
+    "ai.kinemotor.pro",
+    "studio.kinemotor.pro",
+    "makkod.kinemotor.pro"
+   ]
   }
  ]
 }
